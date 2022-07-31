@@ -1,2 +1,1 @@
-# drone-project-octave
-Drone simulation using GNU octave
+### Drone project 2022
